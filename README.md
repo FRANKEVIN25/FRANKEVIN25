@@ -1,123 +1,97 @@
-<!-- BANNER SVG INLINE — no depende de ningún servidor externo -->
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#06b6d4"/>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="800" height="160" fill="url(#bg)"/>
-  <path d="M0,100 C150,60 350,140 500,90 C650,40 750,110 800,80 L800,160 L0,160 Z" fill="rgba(255,255,255,0.08)"/>
-  <path d="M0,120 C200,80 400,150 600,100 C700,75 760,120 800,105 L800,160 L0,160 Z" fill="rgba(255,255,255,0.05)"/>
-  <text x="400" y="72" font-family="Arial,sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">Hola, soy Frank Kevin 👋</text>
-  <text x="400" y="112" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.9)" text-anchor="middle">Full Stack Developer · Backend &amp; ERP Integrations · 🇵🇪 Lima, Perú</text>
+  <rect width="800" height="200" rx="10" fill="url(#grad)"/>
+  <text x="50%" y="45%" font-family="Segoe UI, Arial" font-size="42" font-weight="800" fill="white" text-anchor="middle">Frank Kevin</text>
+  <text x="50%" y="65%" font-family="Segoe UI, Arial" font-size="18" fill="#cbd5e1" text-anchor="middle">Full Stack Developer | ERP Integration Specialist</text>
+  <rect x="350" y="85" width="100" height="2" fill="#06b6d4" />
+  <text x="50%" y="115%" font-family="Segoe UI, Arial" font-size="14" fill="#94a3b8" text-anchor="middle">Python • Django • SvelteKit • Odoo</text>
 </svg>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=Profile%20views&color=7c3aed&style=flat"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:TU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=Profile%20Views&color=7c3aed&style=flat-square" alt="views" />
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🚀 Un poco sobre mí
 
 ```python
-frank = {
-    "rol":         "Full Stack Developer",
-    "ubicacion":   "Lima, Perú 🇵🇪",
-    "enfoque":     ["Backend robusto", "Integraciones ERP", "Arquitecturas escalables"],
-    "aprendiendo": ["Testing", "DevOps", "Cloud (AWS/GCP)"],
-    "dato_random": "Construyo marketplaces B2B con Django + Odoo 🚗"
-}
-```
+class Developer:
+    def __init__(self):
+        self.name = "Frank Kevin"
+        self.role = "Full Stack Developer"
+        self.origin = "Lima, Perú 🇵🇪"
+        self.specialty = ["ERP Integrations", "B2B Marketplaces", "Scalable Backends"]
+        self.tech_stack = {
+            "backend": ["Django", "Odoo 18", "DRF", "Celery"],
+            "frontend": ["SvelteKit", "TailwindCSS", "TypeScript"],
+            "infra": ["Docker", "PostgreSQL", "Redis"]
+        }
+        self.current_goal = "Mastering CI/CD & Cloud Architectures"
 
----
+    def say_hi(self):
+        return "Construyendo soluciones robustas que conectan negocios."
 
-## 🛠️ Stack Tecnológico
+🛠️ Mi Arsenal Tecnológico
+🧠 Backend & ERP
 
-### 🔙 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django_4.2-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Odoo-8B5CF6%3Fstyle%3Dfor-the-badge%26logo%3Dodoo%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+🎨 Frontend & Design
 
-### 🎨 Frontend
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+⚙️ Herramientas & DevOps
 
-### 🗄️ Base de datos & ERP
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_18-8B5CF6?style=for-the-badge&logo=odoo&logoColor=white)
-
-### ⚙️ DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📊 Lenguajes más usados
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANKEVIN25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8"/>
-</div>
-
----
-
-## 📈 Actividad en GitHub
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
+</p>
+📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FRANKEVIN25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=ffffff" width="100%"/>
+<table border="0">
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFRANKEVIN25%26show_icons%3Dtrue%26theme%3Dtokyo-night%26hide_border%3Dtrue%26count_private%3Dtrue" height="170px" />
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFRANKEVIN25%26layout%3Dcompact%26theme%3Dtokyo-night%26hide_border%3Dtrue" height="170px" />
+</td>
+</tr>
+</table>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFRANKEVIN25%26theme%3Dtokyo-night%26hide_border%3Dtrue%26color%3D7c3aed" width="100%" />
 </div>
+🌱 En el Radar...
 
----
+    🔭 Actualmente: Optimizando arquitecturas Multi-tenant para Odoo 18.
 
-## 🌱 Actualmente
+    📚 Aprendiendo: Estrategias avanzadas de Testing (Pytest) y AWS para despliegues escalables.
 
-- 🔨 Construyendo proyectos con **Django + SvelteKit + Odoo 18**
-- 📦 Profundizando en **arquitecturas multi-tenant** e **integraciones ERP**
-- 🚀 Aprendiendo **testing, CI/CD y despliegue en la nube**
-- 💬 Siempre abierto a colaborar en proyectos **B2B o e-commerce**
-
----
-
-## 📫 Hablemos
+    💬 Hablemos de: Integraciones complejas, automatización de procesos y el ecosistema Svelte.
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  &nbsp;
-  <a href="mailto:TU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyo-night" alt="Frase del día" />
 </div>
 
-<!-- FOOTER SVG INLINE -->
-<br/>
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%">
-  <defs>
-    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#06b6d4"/>
-      <stop offset="100%" style="stop-color:#7c3aed"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,40 C200,0 400,70 600,30 C700,10 760,50 800,35 L800,80 L0,80 Z" fill="url(#fg)"/>
-</svg>
-</div>
+<p align="center">
+Desarrollado con ❤️ por Frank Kevin
+</p>
