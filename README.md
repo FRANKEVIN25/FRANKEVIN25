@@ -12,17 +12,6 @@
 
 <br/>
 
-<!-- PRESENTACION -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  Hola, soy Frank 👋  —  Construyo cosas reales       ║
-║  Actualmente: ECOMPARTS 🚗 — Marketplace B2B de      ║
-║  autopartes en Perú · Django · SvelteKit · Odoo 18   ║
-╚══════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
