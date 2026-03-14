@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="./banner.png" width="100%"/>
+  <img src="./fondo.jpg" width="100%"/>
+  <h1>Frank Kevin</h1>
+  <p>Bienvenido 👋</p>
 </div>
-
 ---
 
 ## 👨‍💻 Sobre mí
