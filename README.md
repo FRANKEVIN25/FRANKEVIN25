@@ -1,3 +1,4 @@
+
 <!-- HEADER ANIMADO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=200§ion=header&text=Frank%20Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20ERP%20Integrations&descAlignY=55&descSize=18" width="100%"/>
@@ -11,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Perú-🇵🇪-D91023?style=flat"/>
+  <img src="https://img.shields.io/badge/Lima%2C%20Perú-🇵🇪-D91023?style=flat"/>
 </div>
 
 <br/>
@@ -22,9 +23,9 @@
 
 ```python
 frank = {
-    "rol":        "Full Stack Developer",
-    "ubicacion":  "Lima, Perú 🇵🇪",
-    "enfoque":    ["Backend robusto", "Integraciones ERP", "Arquitecturas escalables"],
+    "rol":         "Full Stack Developer",
+    "ubicacion":   "Lima, Perú 🇵🇪",
+    "enfoque":     ["Backend robusto", "Integraciones ERP", "Arquitecturas escalables"],
     "aprendiendo": ["Testing", "DevOps", "Cloud (AWS/GCP)"],
     "dato_random": "Construyo marketplaces B2B con Django + Odoo 🚗"
 }
@@ -60,18 +61,15 @@ frank = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Lenguajes más usados
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANKEVIN25&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANKEVIN25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANKEVIN25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FRANKEVIN25&theme=midnight-purple&hide_border=true&background=0d1117"/>
-</div>
+---
+
+## 📈 Gráfica de actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FRANKEVIN25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=ffffff" width="100%"/>
@@ -79,18 +77,10 @@ frank = {
 
 ---
 
-## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FRANKEVIN25&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
 ## 🌱 Actualmente
 
 - 🔨 Construyendo proyectos con **Django + SvelteKit + Odoo 18**
-- 📦 Profundizando en **arquitecturas multi-tenant** y **integraciones ERP**
+- 📦 Profundizando en **arquitecturas multi-tenant** e **integraciones ERP**
 - 🚀 Aprendiendo **testing, CI/CD y despliegue en la nube**
 - 💬 Siempre abierto a colaborar en proyectos **B2B o e-commerce**
 
