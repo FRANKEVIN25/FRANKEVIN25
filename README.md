@@ -6,7 +6,7 @@
 <!-- BADGES DE VISITAS Y REDES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=Profile%20views&color=7c3aed&style=flat" alt="visitas"/>
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Frank Jauregui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Perú-🇵🇪-red?style=flat"/>
 </div>
 
@@ -65,10 +65,10 @@
 ## 📫 Contacto
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/Frank Jauregui">
     <img src="https://img.shields.io/badge/LinkedIn-Hablemos-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:frankjaureguibendezu81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
