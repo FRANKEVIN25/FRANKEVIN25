@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=200§ion=header&text=Frank%20Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20%20of%20&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=200§ion=header&text=Frank%20Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20%20%20&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- BADGES DE VISITAS Y REDES -->
