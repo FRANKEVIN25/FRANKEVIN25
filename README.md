@@ -1,20 +1,17 @@
-<!-- HEADER ANIMADO -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=200§ion=header&text=Frank%20Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20ERP%20Integrations&descAlignY=55&descSize=18" width="100%"/>
-</div>
+<!-- TÍTULO PRINCIPAL (sin imagen externa, 100% confiable) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED¢er=true&vCenter=true&width=500&lines=Hola%2C+soy+Frank+Kevin+%F0%9F%91%8B;Full+Stack+Developer;Backend+%26+ERP+Integrations" alt="Typing SVG"/>
+</h1>
 
-<!-- VISITAS Y REDES -->
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=Profile%20views&color=7c3aed&style=flat"/>
   &nbsp;
   <a href="https://linkedin.com/in/TU_USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-🇵🇪-D91023?style=flat"/>
-</div>
-
-<br/>
+  <img src="https://img.shields.io/badge/Lima%2C%20Perú-%F0%9F%87%B5%F0%9F%87%AA-D91023?style=flat"/>
+</p>
 
 ---
 
@@ -63,12 +60,12 @@ frank = {
 ## 📊 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANKEVIN25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANKEVIN25&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8"/>
 </div>
 
 ---
 
-## 📈 Gráfica de actividad
+## 📈 Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FRANKEVIN25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=ffffff" width="100%"/>
@@ -95,11 +92,4 @@ frank = {
   <a href="mailto:TU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
-<br/>
-
-<!-- FOOTER ANIMADO -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=120§ion=footer" width="100%"/>
 </div>
