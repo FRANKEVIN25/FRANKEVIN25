@@ -85,11 +85,11 @@ frank = {
 ## 📫 Hablemos
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/Frank Jauregui">
     <img src="https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:frankjaureguibendezu81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
