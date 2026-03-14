@@ -1,17 +1,20 @@
-<!-- TÍTULO PRINCIPAL (sin imagen externa, 100% confiable) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED¢er=true&vCenter=true&width=500&lines=Hola%2C+soy+Frank+Kevin+%F0%9F%91%8B;Full+Stack+Developer;Backend+%26+ERP+Integrations" alt="Typing SVG"/>
-</h1>
+<!-- HEADER: 100% HTML puro, sin servicios externos -->
+<div align="center">
+  <h1>Hola, soy Frank Kevin 👋</h1>
+  <h3>💻 Full Stack Developer  ·  🔧 Backend & ERP Integrations  ·  🇵🇪 Lima, Perú</h3>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=Profile%20views&color=7c3aed&style=flat"/>
   &nbsp;
   <a href="https://linkedin.com/in/TU_USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-%F0%9F%87%B5%F0%9F%87%AA-D91023?style=flat"/>
-</p>
+  <a href="mailto:TU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
@@ -85,11 +88,11 @@ frank = {
 ## 📫 Hablemos
 
 <div align="center">
-  <a href="https://linkedin.com/in/Frank Jauregui">
+  <a href="https://linkedin.com/in/TU_USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:frankjaureguibendezu81@gmail.com">
+  <a href="mailto:TU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
