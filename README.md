@@ -10,37 +10,6 @@
   <img src="https://img.shields.io/badge/Perú-🇵🇪-red?style=flat"/>
 </div>
 
-<br/>
-
-</div>
-
----
-
-## 🚗 Proyecto Actual — ECOMPARTS
-
-> Marketplace Multi-Vendor B2B de autopartes que conecta talleres mecánicos con proveedores verificados, con integración ERP completa.
-
-| | |
-|---|---|
-| **Estado** | 🟡 MVP Development — Sprint 1 |
-| **Target Launch** | Abril 2026 |
-| **Stack** | Django · SvelteKit · Odoo 18 · PostgreSQL · Celery · Redis · Docker |
-
-### 📊 Progreso del MVP
-
-```
-🔐 Autenticación          ████████████████████  100%  ✅
-🛒 Catálogo de Productos  ████████████████████  100%  ✅
-💳 Pagos & Confirmación   ████████████████████  100%  ✅
-🔄 Integración Odoo       ████████████████████  100%  ✅
-🔔 Webhooks Bidirec.      ████████████████████  100%  ✅
-📦 Sistema de Órdenes     ████████████████░░░░   80%  🟡
-📱 Frontend (SvelteKit)   ████░░░░░░░░░░░░░░░░   20%  🔴
-🧪 Testing Suite          ░░░░░░░░░░░░░░░░░░░░    0%  🔴
-```
-
----
-
 ## 🛠️ Stack Tecnológico
 
 ### Backend
@@ -64,7 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
 ---
 
 ## 📊 Estadísticas de GitHub
