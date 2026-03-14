@@ -1,7 +1,18 @@
-<!-- HEADER: 100% HTML puro, sin servicios externos -->
+<!-- BANNER SVG INLINE — no depende de ningún servidor externo -->
 <div align="center">
-  <h1>Hola, soy Frank Kevin 👋</h1>
-  <h3>💻 Full Stack Developer  ·  🔧 Backend & ERP Integrations  ·  🇵🇪 Lima, Perú</h3>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg)"/>
+  <path d="M0,100 C150,60 350,140 500,90 C650,40 750,110 800,80 L800,160 L0,160 Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M0,120 C200,80 400,150 600,100 C700,75 760,120 800,105 L800,160 L0,160 Z" fill="rgba(255,255,255,0.05)"/>
+  <text x="400" y="72" font-family="Arial,sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">Hola, soy Frank Kevin 👋</text>
+  <text x="400" y="112" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.9)" text-anchor="middle">Full Stack Developer · Backend &amp; ERP Integrations · 🇵🇪 Lima, Perú</text>
+</svg>
 </div>
 
 <div align="center">
@@ -95,4 +106,18 @@ frank = {
   <a href="mailto:TU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</div>
+
+<!-- FOOTER SVG INLINE -->
+<br/>
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C200,0 400,70 600,30 C700,10 760,50 800,35 L800,80 L0,80 Z" fill="url(#fg)"/>
+</svg>
 </div>
