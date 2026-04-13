@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Frank%20Kevin&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20actually%20work%20%E2%9A%A1&descAlignY=58&descSize=16&fontStyle=bold" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Frank%20Kevin&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construyo%20soluciones%20que%20realmente%20funcionan%20%E2%9A%A1&descAlignY=58&descSize=16&fontStyle=bold" width="100%"/>
 </div>
 
 <br/>
@@ -15,28 +15,28 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍%20Lima%2C%20Perú-white?style=flat-square&labelColor=white&color=1a1a2e"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=profile+views&color=6d28d9&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=FRANKEVIN25&label=visitas+al+perfil&color=6d28d9&style=flat-square"/>
 </div>
 
 <br/>
 
 ---
 
-## `> whoami`
+## `> quién-soy`
 
 ```typescript
-const frank: Developer = {
-  role:     "Full Stack Developer",
-  focus:    ["Scalable APIs", "Modern Web Apps", "Clean Architecture"],
-  approach: "I don't just write code — I architect solutions",
-  currently:"Building production-grade systems with Django + SvelteKit",
-  openTo:   ["Freelance", "Remote roles", "Interesting problems"],
+const frank: Desarrollador = {
+  rol:          "Full Stack Developer",
+  enfoque:      ["APIs Escalables", "Aplicaciones Web Modernas", "Arquitectura Limpia"],
+  filosofía:    "No solo escribo código — diseño soluciones",
+  actualmente:  "Construyendo sistemas en producción con Django + SvelteKit",
+  abierto_a:    ["Freelance", "Trabajo remoto", "Problemas interesantes"],
 };
 ```
 
 ---
 
-## `> about --story`
+## `> sobre-mí --historia`
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
@@ -54,7 +54,7 @@ He trabajado con sistemas ERP reales usando **Odoo 18**, integrado **Celery + Re
 
 ---
 
-## `> tech --stack`
+## `> tecnologías --stack`
 
 **Backend & APIs**
 
@@ -70,12 +70,12 @@ He trabajado con sistemas ERP reales usando **Odoo 18**, integrado **Celery + Re
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-**Data & ERP**
+**Datos y ERP**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Odoo](https://img.shields.io/badge/Odoo_18-0a0a0a?style=for-the-badge&logo=odoo&logoColor=8B5CF6)
 
-**DevOps & Tooling**
+**DevOps y Herramientas**
 
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
@@ -84,7 +84,7 @@ He trabajado con sistemas ERP reales usando **Odoo 18**, integrado **Celery + Re
 
 ---
 
-## `> projects --featured`
+## `> proyectos --destacados`
 
 <table>
 <tr>
@@ -143,7 +143,7 @@ Arquitectura orientada a microservicios con **Redis** como broker de mensajes, w
 
 ---
 
-## `> git stats`
+## `> estadísticas --github`
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Arquitectura orientada a microservicios con **Redis** como broker de mensajes, w
 
 ---
 
-## `> trophy --showcase`
+## `> trofeos --github`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FRANKEVIN25&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
@@ -171,7 +171,7 @@ Arquitectura orientada a microservicios con **Redis** como broker de mensajes, w
 
 ---
 
-## `> contact --open-to-work`
+## `> contacto --disponible`
 
 <div align="center">
 
