@@ -91,7 +91,7 @@ He trabajado con sistemas ERP reales usando **Odoo 18**, integrado **Celery + Re
 <td width="50%">
 
 ### ⚙️ [Proyecto 1]
-> *Descripción breve del problema que resuelve.*
+
 
 Plataforma/API/sistema construido con **Django REST + PostgreSQL**, con autenticación JWT, tareas async via **Celery + Redis**, y desplegada en Docker.
 
@@ -103,7 +103,7 @@ Plataforma/API/sistema construido con **Django REST + PostgreSQL**, con autentic
 <td width="50%">
 
 ### 🌐 [Proyecto 2]
-> *Descripción breve del problema que resuelve.*
+
 
 Frontend moderno con **SvelteKit + TypeScript + Tailwind**, consumiendo una API propia con manejo de estado optimizado y SSR.
 
@@ -117,7 +117,7 @@ Frontend moderno con **SvelteKit + TypeScript + Tailwind**, consumiendo una API 
 <td width="50%">
 
 ### 🏢 [Proyecto 3]
-> *Descripción breve del problema que resuelve.*
+
 
 Módulo personalizado en **Odoo 18** integrando flujos de negocio complejos con Python, vistas XML y reportes dinámicos.
 
@@ -128,7 +128,7 @@ Módulo personalizado en **Odoo 18** integrando flujos de negocio complejos con 
 <td width="50%">
 
 ### 🔧 [Proyecto 4]
-> *Descripción breve del problema que resuelve.*
+
 
 Arquitectura orientada a microservicios con **Redis** como broker de mensajes, workers **Celery** distribuidos y monitoreo en tiempo real.
 
@@ -138,8 +138,6 @@ Arquitectura orientada a microservicios con **Redis** como broker de mensajes, w
 </td>
 </tr>
 </table>
-
-> 💡 *Reemplaza los nombres y descripciones con tus proyectos reales. Si no son públicos, puedes escribir igual el nombre e indicar `[Private Repo]`.*
 
 ---
 
